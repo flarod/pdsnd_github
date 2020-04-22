@@ -175,11 +175,12 @@ def raw_stats(df):
     i = 0
     raw = input("\nWould you like to see first 5 rows of your selected parameters? type 'yes' or 'no'\n").lower()
     pd.set_option('display.max_columns',15)
-    #provide option to get a limpse at the original data
+    #provide option to get a glimpse at the original data
     while True:
         if raw in ['no', 'n']:
             break
         print(df[i:i+5])
+    #asks if the viewer is interested in seeing more data
         raw = input('\nWould you like to see next rows of raw data? y/n \n').lower()
         i += 5
     print('-'*40)
