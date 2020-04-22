@@ -1,15 +1,13 @@
 ### Date created
-Include the date you created this project and README file.
+Created April 22nd, 2020
 
 ### Project Title
-Replace the Project Title
-
+Bikeshare analysis per city, different metrics
 ### Description
-Describe what your project is about and what it does
+Provides different metrics per differents cities regarding the usage and the users of the service
 
 ### Files used
-Include the files used
+chicago.csv, new_york_city.csv, washington.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+Credit to Udacity for the lessons and bikeshare for the data.
