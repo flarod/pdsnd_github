@@ -171,6 +171,7 @@ def user_stats(df):
     print("\nThis took %s seconds." % (time.time() - start_time))
     print('-'*40)
 
+#defining raw stats so user can see tablea head
 def raw_stats(df):
     i = 0
     raw = input("\nWould you like to see first 5 rows of your selected parameters? type 'yes' or 'no'\n").lower()
