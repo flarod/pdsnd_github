@@ -4,7 +4,7 @@ Created April 22nd, 2020
 ### Project Title
 Bikeshare analysis per city, different metrics
 ### Description
-Describe what your project is about and what it does
+Provides different metrics per differents cities regarding the usage and the users of the service
 
 ### Files used
 Include the files used
