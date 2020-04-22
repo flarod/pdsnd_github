@@ -2,8 +2,7 @@
 Created April 22nd, 2020
 
 ### Project Title
-Replace the Project Title
-
+Bikeshare analysis per city, different metrics
 ### Description
 Describe what your project is about and what it does
 
