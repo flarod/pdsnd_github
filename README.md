@@ -7,7 +7,7 @@ Bikeshare analysis per city, different metrics
 Provides different metrics per differents cities regarding the usage and the users of the service
 
 ### Files used
-Include the files used
+chicago.csv, new_york_city.csv, washington.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Credit to Udacity for the lessons and bikeshare for the data.
